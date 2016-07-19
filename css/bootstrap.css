@@ -5719,7 +5719,7 @@ button.list-group-item-danger.active:focus {
   background-color: #fff;
 }
 .panel-primary > .panel-footer + .panel-collapse > .panel-body {
-  border-bottom-color: #337ab7;
+  border-bottom-color: #711fd7;
 }
 .panel-success {
   border-color: #d6e9c6;
